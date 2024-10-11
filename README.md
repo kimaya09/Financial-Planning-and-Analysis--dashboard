@@ -6,10 +6,10 @@ This **FP&A (Financial Planning & Analysis) Dashboard** provides real-time insig
 
 The dashboard is tailored to enable effective financial planning and analysis, helping teams optimize budgeting processes, identify trends, and make data-driven decisions for better financial outcomes.
 
-##Budget Report
+## Budget Report
 ![Dashboard](https://github.com/kimaya09/Financial-Planning-and-Analysis--dashboard/blob/main/Financial%20Budget%20Report%20-%20Tab%201.png)
 
-##Region Report
+## Region Report
 ![Dashboard](https://github.com/kimaya09/Financial-Planning-and-Analysis--dashboard/blob/main/Region%20Report%20-%20Tab%202.png)
 
 ## Key Features
